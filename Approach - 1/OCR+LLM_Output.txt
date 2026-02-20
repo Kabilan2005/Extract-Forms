@@ -1,0 +1,40 @@
+{
+  "patient_name": {
+    "value": "JOHN WING C",
+    "confidence": 0.95,
+    "source_text_snippet": "JOHN\n\nWING C"
+  },
+  "member_id": {
+    "value": "33999339",
+    "confidence": 0.98,
+    "source_text_snippet": "33999339"
+  },
+  "diagnosis_codes": {
+    "value": null,
+    "confidence": 1.0,
+    "source_text_snippet": null
+  },
+  "service_dates": {
+    "value": [
+      "11/01/08",
+      "24/07"
+    ],
+    "confidence": 0.9,
+    "source_text_snippet": "11 01 08! 24/07"
+  },
+  "cpt_codes": {
+    "value": null,
+    "confidence": 1.0,
+    "source_text_snippet": null
+  },
+  "provider_name": {
+    "value": "ISLATER, HENRY. MD",
+    "confidence": 0.98,
+    "source_text_snippet": "ISLATER, HENRY. MD"
+  },
+  "charged_amount": {
+    "value": "1500.00",
+    "confidence": 0.95,
+    "source_text_snippet": "1500 00"
+  }
+}

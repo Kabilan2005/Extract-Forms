@@ -1,0 +1,36 @@
+{
+  "box_1a_insured_id": {
+    "value": "33333333",
+    "confidence": 1
+  },
+  "box_2_patient_name": {
+    "value": "SMITH JOHN",
+    "confidence": 1
+  },
+  "box_24a_Dates of Services": [
+    {
+      "value": "11 01 06",
+      "confidence": 1
+    }
+  ],
+  "box_21_diagnosis_codes": [
+    {
+      "value": "401 9",
+      "confidence": 1
+    }
+  ],
+  "box_24d_cpt_codes": [
+    {
+      "value": "09100",
+      "confidence": 1
+    }
+  ],
+  "box_29_amount_paid": {
+    "value": "0 00",
+    "confidence": 1
+  },
+  "box_33_provider_name": {
+    "value": "PLAY COMPANY",
+    "confidence": 1
+  }
+}
